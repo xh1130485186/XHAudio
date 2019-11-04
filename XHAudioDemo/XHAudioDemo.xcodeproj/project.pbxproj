@@ -22,6 +22,7 @@
 		13D262FD236FCF7600CB7023 /* XHAudioPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 13D262F4236FCF7600CB7023 /* XHAudioPlayer.m */; };
 		13D262FE236FCF7600CB7023 /* xh.audio.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 13D262F5236FCF7600CB7023 /* xh.audio.bundle */; };
 		13D26304236FD0B400CB7023 /* XHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 13D26303236FD0B400CB7023 /* XHViewController.m */; };
+		13D26308236FFD7800CB7023 /* XHAudio.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 13D26307236FFD7800CB7023 /* XHAudio.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		13D262F9236FCF7600CB7023 /* XHAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHAudioPlayer.h; sourceTree = "<group>"; };
 		13D26302236FD0B400CB7023 /* XHViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XHViewController.h; sourceTree = "<group>"; };
 		13D26303236FD0B400CB7023 /* XHViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XHViewController.m; sourceTree = "<group>"; };
+		13D26307236FFD7800CB7023 /* XHAudio.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = XHAudio.podspec; path = ../../XHAudio.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				13D262B7236FCF2C00CB7023 /* LaunchScreen.storyboard */,
 				13D262BA236FCF2C00CB7023 /* Info.plist */,
 				13D262BB236FCF2C00CB7023 /* main.m */,
+				13D26307236FFD7800CB7023 /* XHAudio.podspec */,
 			);
 			path = XHAudioDemo;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 			files = (
 				13D262B9236FCF2C00CB7023 /* LaunchScreen.storyboard in Resources */,
 				13D262B6236FCF2C00CB7023 /* Assets.xcassets in Resources */,
+				13D26308236FFD7800CB7023 /* XHAudio.podspec in Resources */,
 				13D262B4236FCF2B00CB7023 /* Main.storyboard in Resources */,
 				13D262FE236FCF7600CB7023 /* xh.audio.bundle in Resources */,
 			);
